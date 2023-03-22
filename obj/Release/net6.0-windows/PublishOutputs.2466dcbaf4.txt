@@ -1,0 +1,5 @@
+C:\Users\Mostafa\Desktop\WinFormsApp3.exe
+C:\Users\Mostafa\Desktop\WinFormsApp3.dll
+C:\Users\Mostafa\Desktop\WinFormsApp3.deps.json
+C:\Users\Mostafa\Desktop\WinFormsApp3.runtimeconfig.json
+C:\Users\Mostafa\Desktop\WinFormsApp3.pdb
